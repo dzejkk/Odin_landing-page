@@ -6,4 +6,6 @@
 
 3. I will also use  git to save version of my code progress !
 
+4. git ma vytaca
+
 
